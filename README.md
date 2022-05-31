@@ -1,5 +1,5 @@
-# dio-desafio-git-github
-Desafio de Projeto GitHub
+#  Priemiro Desafio DIO 
+Desafio de projeto git/github
 
 ## meu primeiro repositorio
 

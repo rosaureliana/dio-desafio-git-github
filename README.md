@@ -1,4 +1,4 @@
-#  Priemiro Desafio DIO 
+#  Primeio desafio DIO
 Desafio de projeto git/github
 
 ## meu primeiro repositorio
